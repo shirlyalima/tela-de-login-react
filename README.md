@@ -1,7 +1,7 @@
 # Login Page App Ϟ(๑⚈ ․̫ ⚈๑)⋆
 
 Este projeto é uma aplicação React simples que apresenta uma interface estilizada de página de login. A interface foi criada com foco em design minimalista e elegante, utilizando CSS moderno.
-![](https://github.com/shirlyalima/tela-de-login-react/blob/56dc8c3fcb2b28cba6d924b94a0676dc635f2709/exemplo%20do%20projeto.gif)
+
 ## Funcionalidades
 
 - **Fundo com imagem personalizada**: A página apresenta um fundo dinâmico, com uma imagem centralizada e ajustada.
